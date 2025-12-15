@@ -1,9 +1,9 @@
 {
-  "versionName": "1.0.5",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/DaylyBuy/dayly-buy-market-updates/releases/download/v1.0.5/Dayly.Buy.Market.apk",
-  "sha256": "3edc000fefb0f09ec0596accafbca0659c6615a474cc9989d9ed89bd0ad8fc09",
-  "md5": "34e15ec51b84055558f7c0b09eb93edb",
-  "size": 86216565,
-  "releaseNotes": "- Patch and binary updates\r\nThankyou : )"
+  "versionName": "1.0.6",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/Dayly-Buy/dayly-buy-market-updates/releases/download/v1.0.6/Dayly.Buy.Market.apk",
+  "sha256": "9988af809c64442654970e3a9aedd764a0c8068fbd4372cc03526b7595bdd106",
+  "md5": "94a24e6464cc6751a49f99b7cb6f66cf",
+  "size": 78896926,
+  "releaseNotes": "updated security patches"
 }
